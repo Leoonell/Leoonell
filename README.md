@@ -7,7 +7,7 @@ Sou o Leonardo Leonel, tenho 18 anos e estou concluindo o Ensino Médio junto ao
 Tenho interesse em desenvolvimento web, programação e tecnologia de forma geral. Meu foco é evoluir constantemente, aprender novas ferramentas e construir um portfólio sólido que reflita meu crescimento na área.
 
 ## 📌 Projetos em Destaque
-- 🛒 **TCC 2k25 Curso tecnico** – E-commerce com integração direta ao WhatsApp Web para envio de pedidos de forma rápida, simples e intuitiva.
+- 🛒 **TCC 2k25 Curso tecnico** – Monstruario com integração direta ao WhatsApp Web para envio de pedidos de forma rápida, simples e intuitiva.
 
 ---
 
