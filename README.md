@@ -2,7 +2,7 @@
 
 **`Dev Júnior`**
 
-Sou o Leonardo Leonel, tenho 18 anos e estou concluindo o Ensino Médio junto ao Curso Técnico Integrado em Análise e Desenvolvimento de Sistemas no Colégio Estadual Professor Francisco Lima da Silva. Atualmente desenvolvo projetos em HTML, CSS, JavaScript e Python, sempre buscando aprimorar minhas habilidades por meio da prática e da criação de soluções reais.
+Sou o Leonardo Leonel, tenho 18 anos e estou concluindo o Ensino Médio junto ao Curso Técnico Integrado em Análise e Desenvolvimento de Sistemas no Colégio Estadual Professor Francisco Lima da Silva. Atualmente desenvolvo projetos em HTML, CSS, JavaScript e Python, sempre buscando aprimorar minhas habilidades.
 
 Tenho interesse em desenvolvimento web, programação e tecnologia de forma geral. Meu foco é evoluir constantemente, aprender novas ferramentas e construir um portfólio sólido que reflita meu crescimento na área.
 
